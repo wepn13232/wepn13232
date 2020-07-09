@@ -1,5 +1,12 @@
 ### Hi there 👋
+My name is Aaron (Chinese name : LinQiYuan) and my nickname is Seven cause it's my lucky number. My main program frame is Vue , also I'm learning the other program frame like React. I'll push some project which I developed before on my GitHub, hope you can find something useful.
 
+Hello👋，我的名字叫Aaron（中文名：启元），我的外号叫“7”因为这是我的幸运数字。我的主开发框架是Vue，同时也在学习其他的框架如React。我会将之前我开发过的项目放到Github上供参考。
+
+- 🔭 I’m currently working on GuangZhou.
+- 🌱 I’m currently learning Vue、React、the high level of JavaScript.
+- 📫 How to reach me: ▉▉▉▉▉▉▉▉▉▉ (WeChat) or 466214222@qq.com (Email)
+ 
 <!--
 **wepn13232/wepn13232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
